@@ -11,8 +11,8 @@
                 "/home/vrees/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
                 "/home/vrees/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip2/include",
                 "/home/vrees/.platformio/packages/framework-arduinoespressif8266/variants/d1_mini",
-                "/home/vrees/work/git-repos/wemos-lora/LoraNode-WemosD1mini/.piolibdeps/Adafruit BMP085 Library_ID525",
-                "/home/vrees/work/git-repos/wemos-lora/LoraNode-WemosD1mini/.piolibdeps/LoRa_ID1167/src",
+                "/home/vrees/work/git-repos/Xyz/.piolibdeps/Adafruit BMP085 Library_ID525",
+                "/home/vrees/work/git-repos/Xyz/.piolibdeps/LoRa_ID1167/src",
                 "/home/vrees/.platformio/packages/framework-arduinoespressif8266/libraries/SPI",
                 "/home/vrees/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
                 "/home/vrees/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA",
@@ -42,8 +42,8 @@
                 "/home/vrees/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker",
                 "/home/vrees/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src",
                 "/home/vrees/.platformio/packages/tool-unity",
-                "/home/vrees/work/git-repos/wemos-lora/LoraNode-WemosD1mini/include",
-                "/home/vrees/work/git-repos/wemos-lora/LoraNode-WemosD1mini/src",
+                "/home/vrees/work/git-repos/Xyz/include",
+                "/home/vrees/work/git-repos/Xyz/src",
                 ""
             ],
             "browse": {
@@ -55,8 +55,8 @@
                     "/home/vrees/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
                     "/home/vrees/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip2/include",
                     "/home/vrees/.platformio/packages/framework-arduinoespressif8266/variants/d1_mini",
-                    "/home/vrees/work/git-repos/wemos-lora/LoraNode-WemosD1mini/.piolibdeps/Adafruit BMP085 Library_ID525",
-                    "/home/vrees/work/git-repos/wemos-lora/LoraNode-WemosD1mini/.piolibdeps/LoRa_ID1167/src",
+                    "/home/vrees/work/git-repos/Xyz/.piolibdeps/Adafruit BMP085 Library_ID525",
+                    "/home/vrees/work/git-repos/Xyz/.piolibdeps/LoRa_ID1167/src",
                     "/home/vrees/.platformio/packages/framework-arduinoespressif8266/libraries/SPI",
                     "/home/vrees/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
                     "/home/vrees/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA",
@@ -86,8 +86,8 @@
                     "/home/vrees/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker",
                     "/home/vrees/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src",
                     "/home/vrees/.platformio/packages/tool-unity",
-                    "/home/vrees/work/git-repos/wemos-lora/LoraNode-WemosD1mini/include",
-                    "/home/vrees/work/git-repos/wemos-lora/LoraNode-WemosD1mini/src",
+                    "/home/vrees/work/git-repos/Xyz/include",
+                    "/home/vrees/work/git-repos/Xyz/src",
                     ""
                 ]
             },
